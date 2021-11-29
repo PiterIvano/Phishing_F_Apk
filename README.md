@@ -9,6 +9,7 @@
         </li>
         <li>
             <p>Abrir el archivo de la apk</p>
+            <img style="height: 40%; width: 30%;" src="Screenshot_20211128-184540_APK Editor Pro.jpg"></img>
         </li>
         <li>
             <p>Abrir el menu de opciones</p>
