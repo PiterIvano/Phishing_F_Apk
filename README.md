@@ -43,6 +43,7 @@
         </li>
         <li>
             <p>Esperar y LISTO</p>
+            <img style="height: 40%; width: 30%;" src="Apk_facebook_free.jpg"></img>
         </li>
     </ul>
 </p>
